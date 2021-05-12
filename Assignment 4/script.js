@@ -1,14 +1,14 @@
 var names=new Array();
-names[0]="Karthikeyan";
-names[1]="Sree";
-names[2]="Doug";
+names[0]="Karthi";
+names[1]="Sai";
+names[2]="Damu";
 names[3]="Surya";
-names[4]="Rajsundaram";
-names[5]="Nandhu";
+names[4]="Raj";
+names[5]="Mani";
 names[6]="Nithish";
-names[7]="Samy";
+names[7]="Sam";
 names[8]="Jagan";
-names[9]="Sarveshwar";
+names[9]="Sarvesh";
 
 for (var i = 0; i < names.length; i++) {
 	if(names[i].charAt(0)==='J' || names[i].charAt(0)==='j'){
